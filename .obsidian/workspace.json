@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline.md",
+                "file": "dvrk_stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "dvrk_stuff"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "54031beb2a4bdb8e",
   "lastOpenFiles": [
-    "Welcome.md",
     "Outline.md",
+    "dvrk stuff.md",
+    "dvrk_stuff.md",
+    "Welcome.md",
     "README.md"
   ]
 }

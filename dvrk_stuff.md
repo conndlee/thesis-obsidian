@@ -1,0 +1,6 @@
+standard davinci tools 8mm shaft diameter precludes clinical use for fetoscopic procedures due to requiring large entry ports into the uterus. significant risk (eg. delivery complications and maternal trauma). Davinci system (dVRK) also possess significant drift/calibration/modelling error (cite 2023 review/survey, SRT) that inhibit research and development in robotic assisted procedures.
+
+small diameter continuum tools:
+small diameter to support reduced clinical risks as a result of reduced entry size. however, non-intuitive control (RPR, bending radius) introduce complexity in not only the procedure difficulty, but also learning curve and robotic modelling and control. A simulator exists for the training with the continuum wristed tools, which has potential to double as a digital twin if registration and synchronisation are solved. 
+
+there exists a need for improved sensing and tracking of tools to improve usability in openspinabifida repair fetoscopic, as well as compensate for the sim-real gap.

@@ -16,6 +16,8 @@ Work
 	Soft-body implementation in sim
 	Surgeon Study (evaluating fetal tools/preliminary feedback on control)
 		note that orientation control etc
+		design and improvement of fetal-maternal model
+		improvement of simulators (virtual training, physical performance)
 	Tool tracking 
 		initially, seemed like position was incorrect using older methods of alignment (naive).
 		next, we implement cross-correlation and dynamic time warping, for coarse and fine adjustment in time alignment (coming from different sensors) using velocity signal (speeds are frame invairant)
